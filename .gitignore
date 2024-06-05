@@ -7,3 +7,4 @@
 build/
 /bazel-*
 out/
+.zig-cache
